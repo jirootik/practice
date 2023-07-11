@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiascanPraktika", "DiascanPraktika.csproj", "{1D5D4536-693F-4A2E-AF5C-6E100DCBEF05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Database", "..\Database\Database.csproj", "{1AB1E754-9E41-4A4D-AE4C-B4EDF4975B59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D5D4536-693F-4A2E-AF5C-6E100DCBEF05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D5D4536-693F-4A2E-AF5C-6E100DCBEF05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D5D4536-693F-4A2E-AF5C-6E100DCBEF05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D5D4536-693F-4A2E-AF5C-6E100DCBEF05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AB1E754-9E41-4A4D-AE4C-B4EDF4975B59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AB1E754-9E41-4A4D-AE4C-B4EDF4975B59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AB1E754-9E41-4A4D-AE4C-B4EDF4975B59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AB1E754-9E41-4A4D-AE4C-B4EDF4975B59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68457A97-985A-466D-B38B-7807E266F366}
+	EndGlobalSection
+EndGlobal
